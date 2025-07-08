@@ -51,7 +51,7 @@ Flutter & Dart: Cross-platform mobile development
 * **Assessment Storage:** Saves quiz templates, attempts, and grades.
 * **Educational Content:** Stores PDFs, YouTube links, and Q\&A data for learning and evaluation.
 
-## 🧠 Models
+## 🧪 Models
 
 ### **Arabic Question Generation**
 
@@ -70,7 +70,7 @@ Fine-tuned **AraT5**, **AraBART**, and **mT5** on our custom EKB dataset to auto
 
 ![Models](Assets/BART_Architecture.JPG)
 
-### **Arabic Question Answering (QA)**
+### **Arabic Question Answering**
 
 * AraT5 outperformed other models (F1: **0.8890** on Arabic-SQuAD, **0.7387** on EKB).
 * It showed strong robustness with long, domain-specific answers.
@@ -85,3 +85,15 @@ Fine-tuned **AraT5**, **AraBART**, and **mT5** on our custom EKB dataset to auto
 ### **Resource Recommendation System**
 
 Used **Sentence Transformers** with **YouTube API** for recommending videos when a student answers incorrectly and **FAISS Vector Search** for semantic search over EKB Curriculum Dataset.
+
+## Evaluation Results
+### **Arabic Question Generation**
+
+![Evaluation Results](Assets/Question_Generation_results.JPG)
+
+### **Arabic Question Answering**
+
+![Evaluation Results](Assets/Question_Answering_results.JPG)
+
+### **Resource Recommendation System**
+![Evaluation Results](Assets/esources_Recommendation_results.JPG)
