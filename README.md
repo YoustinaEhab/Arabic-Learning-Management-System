@@ -86,7 +86,7 @@ Fine-tuned **AraT5**, **AraBART**, and **mT5** on our custom EKB dataset to auto
 
 Used **Sentence Transformers** with **YouTube API** for recommending videos when a student answers incorrectly and **FAISS Vector Search** for semantic search over EKB Curriculum Dataset.
 
-## Evaluation Results
+## 📊 Evaluation Results
 ### **Arabic Question Generation**
 
 ![Evaluation Results](Assets/Question_Generation_results.JPG)
