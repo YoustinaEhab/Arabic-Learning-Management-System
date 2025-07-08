@@ -6,8 +6,7 @@ An AI-powered mobile application designed to personalize Arabic-language educati
 - [Demo Video](#demo-video)  
 - [Technologies Used](#technologies-used)  
 - [System Architecture](#system-architecture)  
-- [NLP Models](#nlp-models)  
-- [Recommendation System](#recommendation-system)  
+- [Models](#models)  
 - [Evaluation Results](#evaluation-results)  
 
 ## Demo Video
@@ -52,7 +51,7 @@ Flutter & Dart: Cross-platform mobile development
 * **Assessment Storage:** Saves quiz templates, attempts, and grades.
 * **Educational Content:** Stores PDFs, YouTube links, and Q\&A data for learning and evaluation.
 
-## 🧠 NLP Models
+## 🧠 Models
 
 ### **Arabic Question Generation**
 
@@ -65,11 +64,11 @@ Fine-tuned **AraT5**, **AraBART**, and **mT5** on our custom EKB dataset to auto
 
 **T5 Architecture**:
 
-![NLP Models](Assets/T5_Architecture.JPG)
+![Models](Assets/T5_Architecture.JPG)
 
 **BART Architecture**:
 
-                                      ![NLP Models](Assets/BART_Architecture.JPG)
+![Models](Assets/BART_Architecture.JPG)
 
 ### **Arabic Question Answering (QA)**
 
