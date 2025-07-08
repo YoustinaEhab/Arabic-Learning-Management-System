@@ -11,7 +11,7 @@ An AI-powered mobile application designed to personalize Arabic-language educati
 - [Evaluation Results](#evaluation-results)  
 
 ## Demo Video
-https://drive.google.com/file/d/1f0qpaHTPitejhdLQcxu6PzGgE9HQCYYW/view?usp=drive_link
+[![Demo Video](Assets/Demo.JPG)](https://drive.google.com/file/d/1f0qpaHTPitejhdLQcxu6PzGgE9HQCYYW/view?usp=drive_link)
 
 ## 🛠️ Technologies Used
 
