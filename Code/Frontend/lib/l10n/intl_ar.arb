@@ -1,0 +1,225 @@
+{
+  "chooseLanguage": "اختر اللغة",
+
+  "onBoardingTitle1": "ابدأ رحلتك التعليمية",
+  "onBoardingSubTitle1": "تصفح الدورات، تتبع تقدمك، وحقق أهدافك في مكان واحد",
+
+  "onBoardingTitle2": "تعلّم بطريقتك",
+  "onBoardingSubTitle2": "اكتشف دورات مصممة خصيصًا لاهتماماتك ومستواك",
+
+  "onBoardingTitle3": "تابع تقدّمك",
+  "onBoardingSubTitle3": "تتبع إنجازاتك، أكمل الدروس، وافتح آفاقًا جديدة",
+
+  "Home": "الصفحة الرئيسية",
+  "chooseLangTitle": "اختر اللغة:",
+
+  "teacherHomeTitle": "مرحبًا أيها المعلم!",
+  "teacherHomeSubtitle1": "المواد المرفوعة",
+  "teacherHomeSubtitle2": "الاختبارات المولدة",
+  "teacherHomeMaterial": "ملف درس التاريخ {lesson}",
+  "teacherHomeQuiz": "اختبار التاريخ {quizNum} - {qestionsNum} أسئلة",
+  "teacherHomeUploadButton": "رفع \n المواد",
+  "teacherHomeGenerateButton": "إنشاء \n الأسئلة",
+  "teacherHomeViewButton": "عرض \n التقارير",
+  "teacherNoMaterials": "لا يوجد مواد مرفوعة",
+  
+  "uploadMaterial": "رفع المادة",
+  "tapToUpload": "انقر لرفع ملف",
+  "uploadFileText": "الملف: {fileName}",
+  "uploadFileTitle": "العنوان",
+  "uploadFileDescription": "الوصف",
+  "uploadFileTagsTitle": "الوسوم",
+  "uploadFileTag": "أضف وسم",
+  "uploadMaterialButton": "رفع المادة",
+  "uploadSuccess": "تم رفع المادة بنجاح!",
+  "uploadError": "الرجاء رفع ملف وتعبئة جميع الحقول",
+
+  "studentHomeTitle": "مرحبًا أيها الطالب!",
+  "studentHomeAppBarTitle": "Arabic LMS",
+  "studentProgressTitle": "تقدمك التعليمي",
+  "studentOverallProgress": "التقدم العام",
+  "studentCompleted": "{percent}% مكتمل",
+  "studentUpcomingTasks": "المهام القادمة",
+  "studentTaskTitle": "{taskTitle}",
+  "studentTaskSubtitle": "{taskSubtitle}",
+  "studentTaskDate": "{taskDate}",
+
+
+  "userTypeTitle": "اختر دورك",
+  "teacherRole": "معلّم",
+  "studentRole": "طالب",
+  "continueButton": "متابعة",
+
+
+  "generateQuizTitle": "إنشاء اختبار من PDF",
+  "uploadPdfTitle": "رفع ملف PDF",
+  "noFileSelected": "لم يتم اختيار ملف",
+  "selectPdfButton": "اختر ملف PDF",
+  "quizConfigTitle": "إعدادات الاختبار",
+  "subjectLabel": "عنوان الاختبار",
+  "numberOfQuestions": "عدد الأسئلة: {count}",
+  "generateButton": "إنشاء الاختبار",
+  "generatingButton": "جاري الإنشاء...",
+  "generatedQuestionsTitle": "الأسئلة المولدة",
+  "saveQuizButton": "حفظ الاختبار",
+  "exportQuizButton": "تنزيل الاختبار",
+  "quizSavedMessage": "تم حفظ الاختبار و رفعه",
+  "quizExportedMessage": "تم تصدير الاختبار كملف",
+  "fileError": "خطأ في اختيار الملف: {error}",
+  "generationError": "خطأ في إنشاء الاختبار: {error}",
+
+  "profileTitle": "الملف الشخصي",
+  "myAccount": "حسابي",
+  "notifications": "الإشعارات",
+  "settings": "الإعدادات",
+  "changeLanguage": "تغيير اللغة",
+  "logOut": "تسجيل الخروج",
+
+  "AuthFailed": "فشل العملية",
+  "AuthSuccess": "تم العملية بنجاح",
+
+  "tempSampleQuestion": "سؤال نموذجي {number} حول محتوى الـملف؟",
+  "tempOptionText": "خيار {number}",
+
+  "subjectsTitle": "المواد الدراسية",
+  "mathematics": "الرياضيات",
+  "chemistry": "الكيمياء",
+  "english": "اللغة الإنجليزية",
+  "geography": "الجغرافيا",
+  "physics": "الفيزياء",
+  "history": "التاريخ",
+
+  "quizTimeRemaining": "{time}",
+  "submitQuiz": "تسليم الاختبار",
+  "submittingQuiz": "جاري التسليم...",
+  "quizSubmitError": "خطأ في تسليم الاختبار: {error}",
+  "quizQuestion": "{question}",
+  "quizOption": "{option}",
+
+  "quizResultsTitle": "نتائج الاختبار",
+  "yourScore": "نقاطك",
+  "scoreText": "{correct} من أصل {total}",
+  "questionReview": "مراجعة الأسئلة",
+  "yourAnswer": "إجابتك: {answer}",
+  "notAnswered": "لم يتم الإجابة",
+  "correctAnswer": "الإجابة الصحيحة: {answer}",
+  "backToQuizzes": "العودة إلى الاختبارات",
+
+  "navHome": "الرئيسية",
+  "navSubjects": "المواد",
+  "navDashboard": "لوحة التحكم",
+  "navProfile": "الملف الشخصي",
+
+  "welcomeTitle": "مرحبًا بك!\n",
+  "welcomeSubtitle": "أدخل التفاصيل الشخصية لحساب المستخدم الخاص بك",
+  "welcomeSignInButton": "تسجيل الدخول",
+  "welcomeSignUpButton": "إنشاء حساب",
+
+  "signInWelcome": "مرحبًا بعودتك",
+  "emailLabel": "البريد الإلكتروني",
+  "emailHint": "أدخل البريد الإلكتروني",
+  "passwordLabel": "كلمة المرور",
+  "passwordHint": "أدخل كلمة المرور",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "signInButton": "تسجيل الدخول",
+  "signInOrSignInUsing": "أو سجل الدخول باستخدام",
+  "signInNoAccount": "ليس لديك حساب؟ ",
+  "signInSignUpLink": "إنشاء حساب",
+  "signInAuthFailed": "حدث خطأ. يرجى التحقق من بيانات الاعتماد الخاصة بك.",
+
+  "signUpTitle": "ابدأ الآن",
+  "fullNameLabel": "الاسم الكامل",
+  "fullNameHint": "أدخل الاسم الكامل",
+  "signUpButton": "إنشاء حساب",
+  "orSignUpUsing": "أو سجل باستخدام",
+  "signUpAlreadyHaveAccount": "لديك حساب بالفعل؟",
+  "signUpSignInLink": "تسجيل الدخول",
+  "signUpAuthFailed": "حدث خطأ. يرجى المحاولة مرة أخرى.",
+
+  "subjectDetailTitle": "التاريخ",
+  "materialsSectionTitle": "المواد التعليمية",
+  "quizzesSectionTitle": "الاختبارات",
+  "noMaterialsText": "لا توجد مواد مرفوعة بعد",
+  "noQuizzesText": "لا توجد اختبارات بعد",
+  "untitledMaterial": "مادة بدون عنوان",
+  "untitledQuiz": "اختبار بدون عنوان",
+
+  "saveButton": "حفظ",
+
+  "questionsCount": "عدد الأسئلة: {count}",
+  "failedToLoadPDFs": "فشل تحميل الملفات: {error}",
+  "failedToLoadQuizzes": "فشل تحميل الاختبارات: {error}",
+  "saveQuizError": "خطأ في حفظ الاختبار: {error}",
+
+  "startQuizTitle": "ابدأ الاختبار",
+  "startQuizMessage": "هل أنت متأكد أنك تريد البدء في هذا الاختبار؟",
+  "startQuizCancel": "إلغاء",
+  "startQuizConfirm": "تأكيد",
+
+  "deleteConfirmationTitle": "مسح",
+  "deleteConfirmationQuest": "هل أنت متأكد أنك تريد حذف {contentName}؟",
+  "deleteConfirmationDelete": "مسح",
+  "deleteConfirmationCancle": "إلغاء",
+
+  "deleteConfirmationSuccess": "تم حذف المحتوى بنجاح",
+  "deleteConfirmationError": "حدث خطأ. يرجى المحاولة مرة أخرى.",
+  "requiredField": "هذا الحقل مطلوب",
+
+  "selectPdfSource": "اختر مصدر ملف PDF",
+  "useExistingPdf": "استخدام ملف PDF موجود",
+  "selectNewPdf": "اختيار ملف PDF جديد",
+  "existingPdfTitle": "ملف PDF الموجود",
+
+  "selectFromUploaded": "اختيار من الملفات المرفوعة",
+  "featureComingSoon": "هذه الميزة قادمة قريباً",
+
+  "selectPdfTitle": "اختر ملف PDF",
+  "cancelButton": "إلغاء",
+
+  "untitledPdf": "ملف PDF بدون عنوان",
+
+
+  "profileUpdated": "تم تحديث الملف الشخصي بنجاح.",
+  "updateFailed": "فشل في تحديث الملف الشخصي.",
+
+  "quizScoresTitle": "نتائج الاختبارات",
+  "quizResultsSubtitle": "عرض أداء الطلاب",
+  "noQuizResults": "لا توجد نتائج اختبار متاحة حتى الآن",
+  "quizNameDropMenu":"أختر اختبار",
+
+  "totalAttemptsLabel": "إجمالي المحاولات",
+  "averageScoreLabel": "متوسط الدرجات",
+  "highestScoreLabel": "أعلى درجة",
+  "lowestScoreLabel": "أقل درجة",
+  "studentScoresLabel": "درجات الطلاب:",
+
+  "newPasswordLabel": "كلمة المرور الجديدة",
+  "newPasswordHint": "أدخل كلمة المرور الجديدة",
+  "confirmPasswordLabel": "تأكيد كلمة المرور",
+  "confirmPasswordHint": "أعد إدخال كلمة المرور الجديدة",
+  "passwordTooShort": "يجب أن تحتوي كلمة المرور على 6 أحرف على الأقل",
+  "passwordsDoNotMatch": "كلمتا المرور غير متطابقتين",
+  "resetButton": "إعادة التعيين",
+  "passwordResetSuccess": "تمت إعادة تعيين كلمة المرور بنجاح!",
+  "passwordResetFailed": "فشل في إعادة تعيين كلمة المرور.",
+
+  "downloadingText": "جاري التحميل...",
+  "failedDownloadingText": "فشل التحميل، يُرجى المحاولة مرة أخرى",
+  "successDownloadingText": "تم حفظ ملف PDF في ملف التنزيلات!",
+  "materialsDownloadTitle": "تحميل المواد",
+  "explore": "استكشف",
+  "searchForATopic": "ابحث عن موضوع...",
+  "noResultsFound": "لم يتم العثور على نتائج. جرب بحثًا مختلفًا.",
+  "exploreScreenTitle": "استكشف عالماً من المعرفة",
+
+  "recommendedYoutubeResources": "موارد يوتيوب الموصى بها",
+  "watchOnYoutube": "شاهد على يوتيوب",
+  "watchButton": "شاهد",
+
+  "quizTimeLabel": "مدة الاختبار (بالدقائق):",
+
+  "topicLabel": "الموضوع",
+
+  "emailInvalid": "يرجى إدخال بريد إلكتروني صحيح",
+  "passwordInvalid": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل وتحتوي على رقم وحرف"
+}

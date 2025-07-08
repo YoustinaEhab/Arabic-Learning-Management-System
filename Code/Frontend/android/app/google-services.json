@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "184311856581",
+    "project_id": "lms-bbe56",
+    "storage_bucket": "fir-authapp-efea9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184311856581:android:ca428913680cc1c07bdfac",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184311856581-f9au887jljdbf6nuqqv4v2qjh25nkr4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5YIS0agC2yx2z5oA2VAFpj-WOueL2T4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184311856581-f9au887jljdbf6nuqqv4v2qjh25nkr4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184311856581:android:a489b6ec7f6e517f7bdfac",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184311856581-odun5212jgv3jaevv1v51jspvfmuu0iq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "a6fa1b15a50861e7070dc69a2e097c5ae825009d"
+          }
+        },
+        {
+          "client_id": "184311856581-f9au887jljdbf6nuqqv4v2qjh25nkr4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5YIS0agC2yx2z5oA2VAFpj-WOueL2T4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184311856581-f9au887jljdbf6nuqqv4v2qjh25nkr4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
