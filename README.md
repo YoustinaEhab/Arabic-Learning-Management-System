@@ -27,7 +27,7 @@ Flutter & Dart: Cross-platform mobile development
 - AraT5, AraBART, mT5: Arabic question generation  
 - YouTube API, FAISS, Sentence Transformers: Semantic search and resource ranking
 
-## 🏗️ System Architecture
+## 🧩 System Architecture
 
 ![System Architecture](Assets/System Architecture.JPG)
 
