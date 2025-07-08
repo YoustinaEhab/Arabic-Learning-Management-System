@@ -54,7 +54,7 @@ Flutter & Dart: Cross-platform mobile development
 
 ## 🧠 NLP Models
 
-**Arabic Question Generation**
+### **Arabic Question Generation**
 
 Fine-tuned **AraT5**, **AraBART**, and **mT5** on our custom EKB dataset to automatically generate Arabic MCQs.
 
@@ -67,18 +67,18 @@ Fine-tuned **AraT5**, **AraBART**, and **mT5** on our custom EKB dataset to auto
 
 **BART Architecture**: Combines a bidirectional encoder (like BERT) and an autoregressive decoder (like GPT). Suited for generative tasks like summarization and question generation.
 
-**Arabic Question Answering (QA)**
+### **Arabic Question Answering (QA)**
 
 * AraT5 outperformed other models (F1: **0.8890** on Arabic-SQuAD, **0.7387** on EKB).
 * It showed strong robustness with long, domain-specific answers.
 * **AraBART** and **mT5** also performed acceptably but with lower F1.
 
-**Distractor Generation**
+### **Distractor Generation**
 
 * **AraT5** fine-tuned on **Arabic-RACE** and **EKB** for generating plausible distractors.
 * Higher scores were obtained on Arabic-RACE due to dataset quality and diversity.
 * Human evaluation confirmed distractor relevance, plausibility, and distinctiveness.
 
-**Resource Recommendation System**
+### **Resource Recommendation System**
 
 Used **Sentence Transformers** with **YouTube API** for recommending videos when a student answers incorrectly and **FAISS Vector Search** for semantic search over EKB Curriculum Dataset.
