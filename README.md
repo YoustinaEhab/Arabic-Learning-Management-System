@@ -64,9 +64,11 @@ Fine-tuned **AraT5**, **AraBART**, and **mT5** on our custom EKB dataset to auto
 * All models were evaluated using standard NLP metrics.
 
 **T5 Architecture**:
+
 ![NLP Models](Assets/T5_Architecture.JPG)
 
 **BART Architecture**:
+
 ![NLP Models](Assets/BART_Architecture.JPG)
 
 ### **Arabic Question Answering (QA)**
