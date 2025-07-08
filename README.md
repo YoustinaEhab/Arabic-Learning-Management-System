@@ -63,9 +63,11 @@ Fine-tuned **AraT5**, **AraBART**, and **mT5** on our custom EKB dataset to auto
 * **AraBART** and **mT5** performed well but consistently underperformed compared to AraT5.
 * All models were evaluated using standard NLP metrics.
 
-**T5 Architecture**: Based on the encoder-decoder transformer. Converts all tasks into text-to-text format (e.g., "generate a question from this paragraph").
+**T5 Architecture**:
+![NLP Models](Assets/T5_Architecture.JPG)
 
-**BART Architecture**: Combines a bidirectional encoder (like BERT) and an autoregressive decoder (like GPT). Suited for generative tasks like summarization and question generation.
+**BART Architecture**:
+![NLP Models](Assets/BART_Architecture.JPG)
 
 ### **Arabic Question Answering (QA)**
 
