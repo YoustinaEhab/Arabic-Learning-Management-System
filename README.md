@@ -69,7 +69,7 @@ Fine-tuned **AraT5**, **AraBART**, and **mT5** on our custom EKB dataset to auto
 
 **BART Architecture**:
 
-![NLP Models](Assets/BART_Architecture.JPG)
+                                      ![NLP Models](Assets/BART_Architecture.JPG)
 
 ### **Arabic Question Answering (QA)**
 
