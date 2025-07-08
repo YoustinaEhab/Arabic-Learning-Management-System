@@ -96,4 +96,4 @@ Used **Sentence Transformers** with **YouTube API** for recommending videos when
 ![Evaluation Results](Assets/Question_Answering_results.JPG)
 
 ### **Resource Recommendation System**
-![Evaluation Results](Assets/resources_Recommendation_results.JPG)
+![Evaluation Results](Assets/Resources_Recommendation_results.JPG)
