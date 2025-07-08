@@ -29,7 +29,7 @@ Flutter & Dart: Cross-platform mobile development
 
 ## 🏗️ System Architecture
 
-[![System Architecture](Assets/System Architecture.JPG)]
+![System Architecture](Assets/System Architecture.JPG)
 
 **📱 Presentation Layer**
 
