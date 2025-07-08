@@ -51,3 +51,34 @@ Flutter & Dart: Cross-platform mobile development
 * **User Database:** Stores user info, profile data, and roles.
 * **Assessment Storage:** Saves quiz templates, attempts, and grades.
 * **Educational Content:** Stores PDFs, YouTube links, and Q\&A data for learning and evaluation.
+
+## 🧠 NLP Models
+
+**Arabic Question Generation**
+
+Fine-tuned **AraT5**, **AraBART**, and **mT5** on our custom EKB dataset to automatically generate Arabic MCQs.
+
+* **AraT5** achieved the best performance across all metrics (BLEU-4, METEOR, F1, BERTScore).
+* Increasing epochs and gradient accumulation improved generalization.
+* **AraBART** and **mT5** performed well but consistently underperformed compared to AraT5.
+* All models were evaluated using standard NLP metrics.
+
+**T5 Architecture**: Based on the encoder-decoder transformer. Converts all tasks into text-to-text format (e.g., "generate a question from this paragraph").
+
+**BART Architecture**: Combines a bidirectional encoder (like BERT) and an autoregressive decoder (like GPT). Suited for generative tasks like summarization and question generation.
+
+**Arabic Question Answering (QA)**
+
+* AraT5 outperformed other models (F1: **0.8890** on Arabic-SQuAD, **0.7387** on EKB).
+* It showed strong robustness with long, domain-specific answers.
+* **AraBART** and **mT5** also performed acceptably but with lower F1.
+
+**Distractor Generation**
+
+* **AraT5** fine-tuned on **Arabic-RACE** and **EKB** for generating plausible distractors.
+* Higher scores were obtained on Arabic-RACE due to dataset quality and diversity.
+* Human evaluation confirmed distractor relevance, plausibility, and distinctiveness.
+
+**Resource Recommendation System**
+
+Used **Sentence Transformers** with **YouTube API** for recommending videos when a student answers incorrectly and **FAISS Vector Search** for semantic search over EKB Curriculum Dataset.
