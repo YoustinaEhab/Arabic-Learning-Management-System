@@ -1,0 +1,28 @@
+fastapi==0.110.2
+uvicorn[standard]==0.29.0
+PyMuPDF==1.24.3
+transformers
+torch
+
+# MongoDB
+beanie==1.23.1
+motor==3.3.1
+pymongo==4.6.1
+pydantic==2.4.2
+
+# Authentication
+passlib==1.7.4
+python-jose==3.3.0
+
+
+#pdf reading
+PyPDF2
+python-multipart
+bcrypt
+
+numpy
+faiss-cpu
+
+sentence-transformers
+scikit-learn
+google-api-python-client
